@@ -31,7 +31,8 @@
         "Requires Symbols"
     ],
     "requiredAttributes": [
-        "email"
+        "email",
+        "phone_number"
     ],
     "userpoolClientName": "cognitocf0c6096_app_client",
     "userpoolClientGenerateSecret": true,
